@@ -1,14 +1,4 @@
 # Intuit Build Challenge – Coding Assessment
-
-## Overview
-
-This repository contains the completed solutions for the Intuit Build Challenge.  
-The project is implemented in **Python** and demonstrates core software engineering competencies including:
-
-- Concurrency  
-- Thread synchronization  
-- Functional data analysis
-
 ---
 ## Prerequisites
 
