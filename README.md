@@ -1,4 +1,3 @@
-````markdown
 # Intuit Build Challenge – Coding Assessment
 
 ## Overview
@@ -8,10 +7,9 @@ The project is implemented in **Python** and demonstrates core software engineer
 
 - Concurrency  
 - Thread synchronization  
-- Functional data analysis  
+- Functional data analysis
 
 ---
-
 ## Prerequisites
 
 - **Language:** Python 3.8 or higher  
@@ -23,12 +21,9 @@ The project is implemented in **Python** and demonstrates core software engineer
   - `unittest`  
 
 This ensures lightweight, dependency-free execution.
-
 ---
-
 ## Project Structure
-
-```text
+````markdown
 Build Challenge - Pawan Aditya/
 │
 ├── src/
@@ -45,8 +40,6 @@ Build Challenge - Pawan Aditya/
 ├── Results.pdf               # Screenshots of program execution output
 └── README.md
 ````
-
----
 
 ## Assignment 1: Producer–Consumer Pattern
 
@@ -179,6 +172,3 @@ OK
 For visual verification of the program outputs, refer to:
 
 * **[Results.pdf](Results.pdf)** – contains screenshots of the execution results.
-
-```
-```
